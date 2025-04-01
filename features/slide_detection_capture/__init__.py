@@ -1,0 +1,1 @@
+"""Slide detection and capture feature for extracting presentation slides from video content."""
