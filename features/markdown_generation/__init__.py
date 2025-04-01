@@ -1,0 +1,1 @@
+"""Markdown generation feature for creating structured Markdown documents from processed content."""
