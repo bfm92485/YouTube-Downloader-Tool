@@ -1,0 +1,1 @@
+"""Video input handling feature for processing both YouTube URLs and local video files."""
